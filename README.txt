@@ -11,7 +11,6 @@ projects. Minimal, responsive, and powered by Skel + Sass. Enjoy :)
 AJ
 aj@lkn.io | @ajlkn
 
-
 Credits:
 
 	Demo Images:
